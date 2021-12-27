@@ -1,0 +1,6 @@
+{
+  "ip": "example.com",
+  "port": 5000,
+  "password": "PasswordHere",
+  "webhook": "HookHere"
+}
